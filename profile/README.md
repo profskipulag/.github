@@ -1,5 +1,5 @@
 # DT-GEO WP5 DTC4
-
+![Alt text](diagram_full.jpg")
 <!--
 
 **Here are some ideas to get you started:**
