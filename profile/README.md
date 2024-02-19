@@ -1,5 +1,7 @@
-# DT-GEO WP5 DTC4
+# DT-GEO WP5 DTC-V4: Volcanic gas dispersal and deposition
+Building blocks for DT-GEO work package 5 Digitial Twin Component 4, "Volcanic gas dispersal and deposition"
 <a href="url"><img src="https://raw.githubusercontent.com/profskipulag/.github/main/diagram_full.jpg" align="left" height="1000" ></a>
+
 <!--
 #![Alt text](diagram_full.jpg?raw=true "Optional Title")
 
