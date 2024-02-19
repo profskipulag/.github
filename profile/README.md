@@ -1,5 +1,5 @@
 # DT-GEO WP5 DTC4
-![Alt text](/profile/diagram_full.jpg")
+![Alt text](diagram_full.jpg?raw=true "Optional Title")
 <!--
 
 **Here are some ideas to get you started:**
