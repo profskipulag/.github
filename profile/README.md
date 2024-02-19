@@ -6,6 +6,7 @@ Building blocks for DT-GEO work package 5 Digitial Twin Component 4, "Volcanic g
 - SS5405 infer.py
 - SS5406 fit.py
 - SS5407 corect_forecast_visualise.py
+  
 For further details see DTC-V4 workflow requirements revised.docx
 <a href="url"><img src="https://raw.githubusercontent.com/profskipulag/.github/main/diagram_full.jpg" align="left" height="1000" ></a>
 
