@@ -1,5 +1,6 @@
 # DT-GEO WP5 DTC4
-![Alt text](diagram_full.jpg?raw=true "Optional Title")
+#![Alt text](diagram_full.jpg?raw=true "Optional Title")
+<a href="url"><img src="https://raw.githubusercontent.com/profskipulag/.github/main/diagram_full.jpg" align="left" height="48" width="48" ></a>
 <!--
 
 **Here are some ideas to get you started:**
