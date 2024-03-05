@@ -1,4 +1,8 @@
 # DT-GEO WP5 DTC-V4: Volcanic gas dispersal and deposition
+## News
+ - 2024/03/05 SS5401 beta released
+
+## Workpackage structure
 Building blocks for DT-GEO work package 5 Digitial Twin Component 4, "Volcanic gas dispersal and deposition"
 - SS5401 fetch_amd_simulate.py
 - SS5403 watch_and_fetch.py
