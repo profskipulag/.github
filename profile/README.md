@@ -1,5 +1,6 @@
 # DT-GEO WP5 DTC-V4: Volcanic gas dispersal and deposition
 ## News
+ - 2024/09/02 ST540202, ST540203, ST540204, ST540206 betas released
  - 2024/03/05 SS5401 beta released
 
 ## Workpackage structure
