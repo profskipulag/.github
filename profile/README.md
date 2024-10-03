@@ -13,7 +13,7 @@ Building blocks for DT-GEO work package 5 Digitial Twin Component 4, "Volcanic g
 - SS5407 corect_forecast_visualise.py
   
 For further details see DTC-V4 workflow requirements revised.docx
-<a href="url"><img src="https://raw.githubusercontent.com/profskipulag/.github/main/diagram_full.jpg" align="left" height="1000" ></a>
+<a href="url"><img src="https://raw.githubusercontent.com/profskipulag/.github/main/diagram_full.jpg" height="1000" ></a>
 
 ## Overview
 This DTC estimates the posterior joint distribution over volcanic plume height, volcanic $SO_2$ flux, and $SO_2$​ concentration at ground level from sparse observations of these variables and an atmospheric dispersion model. The posterior is specified by a hierarchical Bayesian model implemented in the Stan probabilistic programming language, from which samples are drawn using Hamiltonian Monte Carlo. These samples are then used to estimate marginal density distributions over parameters of interest, as well as threshold exceedence probabilities, which are displayed on time series plots and maps on an interactive website implemented in D3.js with a python FastAPI backend. In addition to the posterior distribution, individual samples (similar to a particular scenario in an ensemble) can be selected and plotted, to see what an individual outcome might look like, in comparison to the probability distribution over all outcomes.
