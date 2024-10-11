@@ -6,7 +6,7 @@
 ## Workpackage structure
 Building blocks for DT-GEO work package 5 Digitial Twin Component 4, "Volcanic gas dispersal and deposition"
 - ST540101 manual data
-- ST540102 watch and fetch
+- [ST540102 watch and fetch](https://github.com/profskipulag/ST540102)
 - ST540103 emulate
 - ST540104 infer
 - ST540105 visualise
