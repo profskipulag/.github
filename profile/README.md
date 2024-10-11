@@ -1,16 +1,15 @@
 # DT-GEO WP5 DTC-V4: Volcanic gas dispersal and deposition
 ## News
- - 2024/09/02 ST540202, ST540203, ST540204, ST540206 betas released
+ - 2024/09/02 ST540102, ST540103, ST540104, ST540105 betas released
  - 2024/03/05 SS5401 beta released
 
 ## Workpackage structure
 Building blocks for DT-GEO work package 5 Digitial Twin Component 4, "Volcanic gas dispersal and deposition"
-- SS5401 fetch_amd_simulate.py
-- SS5403 watch_and_fetch.py
-- SS5404 train.py
-- SS5405 infer.py
-- SS5406 fit.py
-- SS5407 corect_forecast_visualise.py
+- ST540101 manual data
+- ST540102 watch and fetch
+- ST540103 emulate
+- ST540104 infer
+- ST540105 visualise
   
 For further details see DTC-V4 workflow requirements revised.docx
 <a href="url"><img src="https://raw.githubusercontent.com/profskipulag/.github/main/diagram_full.jpg" height="1000" ></a>
