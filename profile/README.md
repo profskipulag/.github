@@ -1,10 +1,12 @@
 # DT-GEO WP5 DTC-V4: Volcanic gas dispersal and deposition
 ## News
+ - 2025/09/01 [execute_on_hpc](https://github.com/profskipulag/execute_on_hpc) released - this sets up the environments on Leonardo and runs the code
  - 2024/09/02 [ST540102](https://github.com/profskipulag/ST540102), [ST540103](https://github.com/profskipulag/ST540103), [ST540104](https://github.com/profskipulag/ST540104), [ST540105](https://github.com/profskipulag/ST540105) betas released
  - 2024/03/05 SS5401 beta released
 
 ## Workpackage structure
 Building blocks for DT-GEO work package 5 Digitial Twin Component 4, "Volcanic gas dispersal and deposition"
+- [execute_on_hpc](https://github.com/profskipulag/execute_on_hpc)
 - ST540101 manual data
 - [ST540102 watch and fetch](https://github.com/profskipulag/ST540102)
 - [ST540103 emulate](https://github.com/profskipulag/ST540103)
